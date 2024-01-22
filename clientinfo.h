@@ -2,7 +2,7 @@
 #define CLIENTINFO_H
 
 #include <QString>
-
+//我是将
 
 class ClientInfo
 {
